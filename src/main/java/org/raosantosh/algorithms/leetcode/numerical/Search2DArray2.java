@@ -1,4 +1,4 @@
-package com.yahoo.sample.numerical;
+package org.raosantosh.algorithms.leetcode.numerical;
 
 public class Search2DArray2 {
 

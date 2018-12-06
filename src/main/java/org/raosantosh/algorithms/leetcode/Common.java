@@ -1,4 +1,4 @@
-package com.yahoo.sample;
+package org.raosantosh.algorithms.leetcode;
 
 import java.util.ArrayList;
 import java.util.List;

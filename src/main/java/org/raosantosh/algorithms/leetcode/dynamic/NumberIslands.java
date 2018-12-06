@@ -1,4 +1,4 @@
-package com.yahoo.sample.dynamic;
+package org.raosantosh.algorithms.leetcode.dynamic;
 
 public class NumberIslands {
 

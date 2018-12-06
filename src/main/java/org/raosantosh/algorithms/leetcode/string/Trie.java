@@ -1,4 +1,5 @@
-package com.yahoo.sample.string;
+package org.raosantosh.algorithms.leetcode.string;
+
 
 public class Trie {
     /** Initialize your data structure here. */

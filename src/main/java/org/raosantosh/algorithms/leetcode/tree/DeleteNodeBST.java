@@ -1,4 +1,4 @@
-package com.yahoo.sample.tree;
+package org.raosantosh.algorithms.leetcode.tree;
 
 public class DeleteNodeBST {
 
@@ -30,8 +30,8 @@ public class DeleteNodeBST {
 
 		String serialized = "33,16,40,2,24,35,42,1,5,23,26,34,39,41,45,0,null,4,10,18,null,25,30,null,null,36,null,null,null,43,48,null,null,3,null,9,15,17,22,null,null,28,31,null,38,null,44,46,49,null,null,6,null,14,null,null,null,19,null,27,29,null,32,37,null,null,null,null,47,null,null,null,8,12,null,null,20,null,null,null,null,null,null,null,null,null,null,7,null,11,13,null,21";
 		SerializeTree treeSerializer = new SerializeTree();
-		root = treeSerializer.deserialize(serialized);
-		System.out.println(tree.deleteNode(root, 26).val);
+		//root = treeSerializer.deserialize(serialized);
+		//System.out.println(tree.deleteNode(root, 26).val);
 
 	}
 

@@ -1,4 +1,4 @@
-package com.yahoo.sample.lists;
+package org.raosantosh.algorithms.leetcode.lists;
 
 public class ReorderList {
 

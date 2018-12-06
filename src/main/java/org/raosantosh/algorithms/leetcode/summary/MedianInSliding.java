@@ -1,9 +1,8 @@
-package com.yahoo.sample.summary;
+package org.raosantosh.algorithms.leetcode.summary;
 
 import java.util.Collections;
 import java.util.PriorityQueue;
-
-import com.yahoo.sample.Common;
+import org.raosantosh.algorithms.leetcode.Common;
 
 public class MedianInSliding {
 

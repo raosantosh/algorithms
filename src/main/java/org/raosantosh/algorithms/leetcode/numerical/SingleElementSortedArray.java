@@ -1,9 +1,8 @@
-package com.yahoo.sample.numerical;
+package org.raosantosh.algorithms.leetcode.numerical;
 
 import java.util.HashSet;
 import java.util.Set;
-
-import com.yahoo.sample.Common;
+import org.raosantosh.algorithms.leetcode.Common;
 
 public class SingleElementSortedArray {
 

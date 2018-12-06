@@ -1,9 +1,9 @@
-package com.yahoo.sample.dynamic;
+package org.raosantosh.algorithms.leetcode.dynamic;
 
 import java.util.HashMap;
 import java.util.Map;
+import org.raosantosh.algorithms.leetcode.Common;
 
-import com.yahoo.sample.Common;
 
 public class JumpGame2 {
 

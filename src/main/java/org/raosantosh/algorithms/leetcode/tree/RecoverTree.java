@@ -1,4 +1,4 @@
-package com.yahoo.sample.tree;
+package org.raosantosh.algorithms.leetcode.tree;
 
 public class RecoverTree {
 

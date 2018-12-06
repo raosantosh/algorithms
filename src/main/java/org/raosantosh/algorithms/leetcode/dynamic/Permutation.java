@@ -1,4 +1,4 @@
-package com.yahoo.sample.dynamic;
+package org.raosantosh.algorithms.leetcode.dynamic;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.yahoo.sample.dynamic;
+package org.raosantosh.algorithms.leetcode.dynamic;
 
 import java.util.HashMap;
 import java.util.Map;

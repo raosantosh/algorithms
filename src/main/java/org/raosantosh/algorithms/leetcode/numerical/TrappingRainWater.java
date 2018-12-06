@@ -1,6 +1,7 @@
-package com.yahoo.sample.numerical;
+package org.raosantosh.algorithms.leetcode.numerical;
 
-import com.yahoo.sample.Common;
+
+import org.raosantosh.algorithms.leetcode.Common;
 
 public class TrappingRainWater {
 

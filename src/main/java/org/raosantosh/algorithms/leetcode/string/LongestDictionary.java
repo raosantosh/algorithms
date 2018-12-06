@@ -1,8 +1,8 @@
-package com.yahoo.sample.string;
+package org.raosantosh.algorithms.leetcode.string;
+
 
 import java.util.List;
-
-import com.yahoo.sample.Common;
+import org.raosantosh.algorithms.leetcode.Common;
 
 public class LongestDictionary {
 	

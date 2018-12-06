@@ -1,10 +1,9 @@
-package com.yahoo.sample.tree;
+package org.raosantosh.algorithms.leetcode.tree;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Deque;
-
-import com.yahoo.sample.tree.DeleteNodeBST.TreeNode;
+import org.raosantosh.algorithms.leetcode.tree.CountTreeNodes.TreeNode;
 
 public class SerializeTree {
 

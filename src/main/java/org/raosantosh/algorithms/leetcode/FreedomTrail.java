@@ -1,4 +1,4 @@
-package com.yahoo.sample;
+package org.raosantosh.algorithms.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;
